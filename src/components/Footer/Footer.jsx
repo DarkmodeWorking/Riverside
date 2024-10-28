@@ -86,7 +86,7 @@ function Footer() {
                 <li className="mb-4">
                   <Link
                     className=" text-base font-medium text-gray-400 hover:text-gray-700"
-                    to="https://www.github.com/DarkmodeAddict"
+                    to="https://www.github.com/DarkmodeWorking"
                   >
                     Github
                   </Link>
